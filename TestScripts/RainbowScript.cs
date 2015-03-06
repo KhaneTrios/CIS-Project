@@ -1,3 +1,4 @@
+//Rainbow Script by 5on
 using UnityEngine;
 using System.Collections;
 
