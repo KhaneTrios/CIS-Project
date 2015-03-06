@@ -20,4 +20,10 @@ public class RainbowScript : MonoBehaviour
 			gameObject.renderer.material.color = Color.yellow;
 			gameObject.renderer.material.color = Color.green;
 			gameObject.renderer.material.color = Color.blue;
-			gameObject.renderer.material.color = Color.magenta;}}}
+			gameObject.renderer.material.color = Color.magenta;
+			
+		}
+		
+	}
+	
+}
